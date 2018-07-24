@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MediaPlayActivity">
+
+    <include
+        android:id="@+id/cl_toolbar_typ1"
+        layout="@layout/toolbar_type1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        app:layout_constraintBottom_toTopOf="@+id/ll_control"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/cl_toolbar_typ1"
+        android:layout_height="0dp">
+
+        <VideoView
+            android:id="@+id/vv_media"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            />
+
+
+        <com.example.videostream.VideoPlayerIJK
+            android:id="@+id/fl_contain"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:id="@+id/ll_detail_param"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingLeft="@dimen/app_dp16"
+            android:paddingTop="@dimen/app_dp16">
+
+            <LinearLayout
+                android:id="@+id/ll_revolution"
+                android:layout_width="match_parent"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="@dimen/app_sp10"
+                    android:textColor="@color/color_yellow"
+                    android:text="分辨率： "/>
+                <TextView
+                    android:id="@+id/tv_revolution"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="@dimen/app_sp10"
+                    android:textColor="@color/color_yellow"
+                    tools:text="分辨率 "/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/ll_encode_format"
+                android:layout_width="match_parent"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="@dimen/app_sp10"
+                    android:textColor="@color/color_yellow"
+                    android:text="编码格式： "/>
+                <TextView
+                    android:id="@+id/tv_encode_format"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="@dimen/app_sp10"
+                    android:textColor="@color/color_yellow"
+                    tools:text="编码格式"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/ll_pkg_format"
+                android:layout_width="match_parent"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="@dimen/app_sp10"
+                    android:textColor="@color/color_yellow"
+                    android:text="封装格式： "/>
+                <TextView
+                    android:id="@+id/tv_pkg_format"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="@dimen/app_sp10"
+                    android:textColor="@color/color_yellow"
+                    tools:text="封装格式"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/ll_code_rate"
+                android:layout_width="match_parent"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="@dimen/app_sp10"
+                    android:textColor="@color/color_yellow"
+                    android:text="碼率大小： "/>
+                <TextView
+                    android:id="@+id/tv_code_rate"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="@dimen/app_sp10"
+                    android:textColor="@color/color_yellow"
+                    tools:text="碼率大小"/>
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+    </RelativeLayout>
+
+
+    <LinearLayout
+        android:id="@+id/ll_control"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent">
+
+        <Button
+            android:id="@+id/btn_play"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/app_dp48"
+            android:layout_weight="1"
+            android:text="播放" />
+
+        <Button
+            android:id="@+id/btn_pause"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/app_dp48"
+            android:layout_weight="1"
+            android:text="暂停" />
+
+        <Button
+            android:id="@+id/btn_stop"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/app_dp48"
+            android:layout_weight="1"
+            android:text="停止" />
+
+        <Button
+            android:id="@+id/btn_re_play"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/app_dp48"
+            android:layout_weight="1"
+            android:visibility="gone"
+            android:text="重播" />
+    </LinearLayout>
+
+
+</android.support.constraint.ConstraintLayout>

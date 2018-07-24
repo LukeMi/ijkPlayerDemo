@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="app_sp1">1sp</dimen>
+    <dimen name="app_sp2">2sp</dimen>
+    <dimen name="app_sp3">3sp</dimen>
+    <dimen name="app_sp4">4sp</dimen>
+    <dimen name="app_sp5">5sp</dimen>
+    <dimen name="app_sp6">6sp</dimen>
+    <dimen name="app_sp7">7sp</dimen>
+    <dimen name="app_sp8">8sp</dimen>
+    <dimen name="app_sp9">9sp</dimen>
+
+    <dimen name="app_sp10">10sp</dimen>
+    <dimen name="app_sp11">11sp</dimen>
+    <dimen name="app_sp12">12sp</dimen>
+    <dimen name="app_sp13">13sp</dimen>
+    <dimen name="app_sp14">14sp</dimen>
+    <dimen name="app_sp15">15sp</dimen>
+    <dimen name="app_sp16">16sp</dimen>
+    <dimen name="app_sp17">17sp</dimen>
+    <dimen name="app_sp18">18sp</dimen>
+    <dimen name="app_sp19">19sp</dimen>
+
+    <dimen name="app_sp20">20sp</dimen>
+    <dimen name="app_sp21">21sp</dimen>
+    <dimen name="app_sp22">22sp</dimen>
+    <dimen name="app_sp23">23sp</dimen>
+    <dimen name="app_sp24">24sp</dimen>
+    <dimen name="app_sp25">25sp</dimen>
+    <dimen name="app_sp26">26sp</dimen>
+    <dimen name="app_sp27">27sp</dimen>
+    <dimen name="app_sp28">28sp</dimen>
+    <dimen name="app_sp29">29sp</dimen>
+
+    <dimen name="app_sp30">30sp</dimen>
+    <dimen name="app_sp31">31sp</dimen>
+    <dimen name="app_sp32">32sp</dimen>
+    <dimen name="app_sp33">33sp</dimen>
+    <dimen name="app_sp34">34sp</dimen>
+    <dimen name="app_sp35">35sp</dimen>
+    <dimen name="app_sp36">36sp</dimen>
+    <dimen name="app_sp37">37sp</dimen>
+    <dimen name="app_sp38">38sp</dimen>
+    <dimen name="app_sp39">39sp</dimen>
+
+    <dimen name="app_dp1">1dp</dimen>
+    <dimen name="app_dp2">2dp</dimen>
+    <dimen name="app_dp3">3dp</dimen>
+    <dimen name="app_dp4">4dp</dimen>
+    <dimen name="app_dp5">5dp</dimen>
+    <dimen name="app_dp6">6dp</dimen>
+    <dimen name="app_dp7">7dp</dimen>
+    <dimen name="app_dp8">8dp</dimen>
+    <dimen name="app_dp9">9dp</dimen>
+
+    <dimen name="app_dp10">10dp</dimen>
+    <dimen name="app_dp11">11dp</dimen>
+    <dimen name="app_dp12">12dp</dimen>
+    <dimen name="app_dp13">13dp</dimen>
+    <dimen name="app_dp14">14dp</dimen>
+    <dimen name="app_dp15">15dp</dimen>
+    <dimen name="app_dp16">16dp</dimen>
+    <dimen name="app_dp17">17dp</dimen>
+    <dimen name="app_dp18">18dp</dimen>
+    <dimen name="app_dp19">19dp</dimen>
+
+    <dimen name="app_dp20">20dp</dimen>
+    <dimen name="app_dp21">21dp</dimen>
+    <dimen name="app_dp22">22dp</dimen>
+    <dimen name="app_dp23">23dp</dimen>
+    <dimen name="app_dp24">24dp</dimen>
+    <dimen name="app_dp25">25dp</dimen>
+    <dimen name="app_dp26">26dp</dimen>
+    <dimen name="app_dp27">27dp</dimen>
+    <dimen name="app_dp28">28dp</dimen>
+    <dimen name="app_dp29">29dp</dimen>
+
+    <dimen name="app_dp30">30dp</dimen>
+    <dimen name="app_dp31">31dp</dimen>
+    <dimen name="app_dp32">32dp</dimen>
+    <dimen name="app_dp33">33dp</dimen>
+    <dimen name="app_dp34">34dp</dimen>
+    <dimen name="app_dp35">35dp</dimen>
+    <dimen name="app_dp36">36dp</dimen>
+    <dimen name="app_dp37">37dp</dimen>
+    <dimen name="app_dp38">38dp</dimen>
+    <dimen name="app_dp39">39dp</dimen>
+
+    <dimen name="app_dp40">40dp</dimen>
+    <dimen name="app_dp41">41dp</dimen>
+    <dimen name="app_dp42">42dp</dimen>
+    <dimen name="app_dp43">43dp</dimen>
+    <dimen name="app_dp44">44dp</dimen>
+    <dimen name="app_dp45">45dp</dimen>
+    <dimen name="app_dp46">46dp</dimen>
+    <dimen name="app_dp47">47dp</dimen>
+    <dimen name="app_dp48">48dp</dimen>
+    <dimen name="app_dp49">49dp</dimen>
+
+
+    <dimen name="app_dp50">50dp</dimen>
+    <dimen name="app_dp51">51dp</dimen>
+    <dimen name="app_dp52">52dp</dimen>
+    <dimen name="app_dp53">53dp</dimen>
+    <dimen name="app_dp54">54dp</dimen>
+    <dimen name="app_dp55">55dp</dimen>
+    <dimen name="app_dp56">56dp</dimen>
+    <dimen name="app_dp57">57dp</dimen>
+    <dimen name="app_dp58">58dp</dimen>
+    <dimen name="app_dp59">59dp</dimen>
+
+    <dimen name="app_dp60">60dp</dimen>
+    <dimen name="app_dp61">61dp</dimen>
+    <dimen name="app_dp62">62dp</dimen>
+    <dimen name="app_dp63">63dp</dimen>
+    <dimen name="app_dp64">64dp</dimen>
+    <dimen name="app_dp65">65dp</dimen>
+    <dimen name="app_dp66">66dp</dimen>
+    <dimen name="app_dp67">67dp</dimen>
+    <dimen name="app_dp68">68dp</dimen>
+    <dimen name="app_dp69">69dp</dimen>
+
+    <dimen name="app_dp70">70dp</dimen>
+    <dimen name="app_dp71">71dp</dimen>
+    <dimen name="app_dp72">72dp</dimen>
+    <dimen name="app_dp73">73dp</dimen>
+    <dimen name="app_dp74">74dp</dimen>
+    <dimen name="app_dp75">75dp</dimen>
+    <dimen name="app_dp76">76dp</dimen>
+    <dimen name="app_dp77">77dp</dimen>
+    <dimen name="app_dp78">78dp</dimen>
+    <dimen name="app_dp79">79dp</dimen>
+
+    <dimen name="app_dp80">80dp</dimen>
+    <dimen name="app_dp81">81dp</dimen>
+    <dimen name="app_dp82">82dp</dimen>
+    <dimen name="app_dp83">83dp</dimen>
+    <dimen name="app_dp84">84dp</dimen>
+    <dimen name="app_dp85">85dp</dimen>
+    <dimen name="app_dp86">86dp</dimen>
+    <dimen name="app_dp87">87dp</dimen>
+    <dimen name="app_dp88">88dp</dimen>
+    <dimen name="app_dp89">89dp</dimen>
+
+    <dimen name="app_dp90">90dp</dimen>
+    <dimen name="app_dp91">91dp</dimen>
+    <dimen name="app_dp92">92dp</dimen>
+    <dimen name="app_dp93">93dp</dimen>
+    <dimen name="app_dp94">94dp</dimen>
+    <dimen name="app_dp95">95dp</dimen>
+    <dimen name="app_dp96">96dp</dimen>
+    <dimen name="app_dp97">97dp</dimen>
+    <dimen name="app_dp98">98dp</dimen>
+    <dimen name="app_dp99">99dp</dimen>
+
+    <dimen name="app_dp100">100dp</dimen>
+    <dimen name="app_dp101">101dp</dimen>
+    <dimen name="app_dp102">102dp</dimen>
+    <dimen name="app_dp103">103dp</dimen>
+    <dimen name="app_dp104">104dp</dimen>
+    <dimen name="app_dp105">105dp</dimen>
+    <dimen name="app_dp106">106dp</dimen>
+    <dimen name="app_dp107">107dp</dimen>
+    <dimen name="app_dp108">108dp</dimen>
+    <dimen name="app_dp109">109dp</dimen>
+
+    <dimen name="app_dp110">110dp</dimen>
+    <dimen name="app_dp111">111dp</dimen>
+    <dimen name="app_dp112">112dp</dimen>
+    <dimen name="app_dp113">113dp</dimen>
+    <dimen name="app_dp114">114dp</dimen>
+    <dimen name="app_dp115">115dp</dimen>
+    <dimen name="app_dp116">116dp</dimen>
+    <dimen name="app_dp117">117dp</dimen>
+    <dimen name="app_dp118">118dp</dimen>
+    <dimen name="app_dp119">119dp</dimen>
+
+    <dimen name="app_dp120">120dp</dimen>
+    <dimen name="app_dp121">121dp</dimen>
+    <dimen name="app_dp122">122dp</dimen>
+    <dimen name="app_dp123">123dp</dimen>
+    <dimen name="app_dp124">124dp</dimen>
+    <dimen name="app_dp125">125dp</dimen>
+    <dimen name="app_dp126">126dp</dimen>
+    <dimen name="app_dp127">127dp</dimen>
+    <dimen name="app_dp128">128dp</dimen>
+    <dimen name="app_dp129">129dp</dimen>
+
+
+    <dimen name="app_dp130">130dp</dimen>
+    <dimen name="app_dp131">131dp</dimen>
+    <dimen name="app_dp132">132dp</dimen>
+    <dimen name="app_dp133">133dp</dimen>
+    <dimen name="app_dp134">134dp</dimen>
+    <dimen name="app_dp135">135dp</dimen>
+    <dimen name="app_dp136">136dp</dimen>
+    <dimen name="app_dp137">137dp</dimen>
+    <dimen name="app_dp138">138dp</dimen>
+    <dimen name="app_dp139">139dp</dimen>
+
+
+    <dimen name="app_dp140">140dp</dimen>
+    <dimen name="app_dp141">141dp</dimen>
+    <dimen name="app_dp142">142dp</dimen>
+    <dimen name="app_dp143">143dp</dimen>
+    <dimen name="app_dp144">144dp</dimen>
+    <dimen name="app_dp145">145dp</dimen>
+    <dimen name="app_dp146">146dp</dimen>
+    <dimen name="app_dp147">147dp</dimen>
+    <dimen name="app_dp148">148dp</dimen>
+    <dimen name="app_dp149">149dp</dimen>
+
+    <dimen name="app_dp150">150dp</dimen>
+    <dimen name="app_dp151">151dp</dimen>
+    <dimen name="app_dp152">152dp</dimen>
+    <dimen name="app_dp153">153dp</dimen>
+    <dimen name="app_dp154">154dp</dimen>
+    <dimen name="app_dp155">155dp</dimen>
+    <dimen name="app_dp156">156dp</dimen>
+    <dimen name="app_dp157">157dp</dimen>
+    <dimen name="app_dp158">158dp</dimen>
+    <dimen name="app_dp159">159dp</dimen>
+
+    <dimen name="app_dp160">160dp</dimen>
+    <dimen name="app_dp161">161dp</dimen>
+    <dimen name="app_dp162">162dp</dimen>
+    <dimen name="app_dp163">163dp</dimen>
+    <dimen name="app_dp164">164dp</dimen>
+    <dimen name="app_dp165">165dp</dimen>
+    <dimen name="app_dp166">166dp</dimen>
+    <dimen name="app_dp167">167dp</dimen>
+    <dimen name="app_dp168">168dp</dimen>
+    <dimen name="app_dp169">169dp</dimen>
+
+    <dimen name="app_dp170">170dp</dimen>
+    <dimen name="app_dp171">171dp</dimen>
+    <dimen name="app_dp172">172dp</dimen>
+    <dimen name="app_dp173">173dp</dimen>
+    <dimen name="app_dp174">174dp</dimen>
+    <dimen name="app_dp175">175dp</dimen>
+    <dimen name="app_dp176">176dp</dimen>
+    <dimen name="app_dp177">177dp</dimen>
+    <dimen name="app_dp178">178dp</dimen>
+    <dimen name="app_dp179">179dp</dimen>
+
+    <dimen name="app_dp180">180dp</dimen>
+    <dimen name="app_dp181">181dp</dimen>
+    <dimen name="app_dp182">182dp</dimen>
+    <dimen name="app_dp183">183dp</dimen>
+    <dimen name="app_dp184">184dp</dimen>
+    <dimen name="app_dp185">185dp</dimen>
+    <dimen name="app_dp186">186dp</dimen>
+    <dimen name="app_dp187">187dp</dimen>
+    <dimen name="app_dp188">188dp</dimen>
+    <dimen name="app_dp189">189dp</dimen>
+
+    <dimen name="app_dp190">190dp</dimen>
+    <dimen name="app_dp191">191dp</dimen>
+    <dimen name="app_dp192">192dp</dimen>
+    <dimen name="app_dp193">193dp</dimen>
+    <dimen name="app_dp194">194dp</dimen>
+    <dimen name="app_dp195">195dp</dimen>
+    <dimen name="app_dp196">196dp</dimen>
+</resources>
